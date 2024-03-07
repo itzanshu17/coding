@@ -1,0 +1,1064 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "appa",
+            "request": "launch",
+            "mainClass": "appa",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "appa",
+            "request": "launch",
+            "mainClass": "practice.appa",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "pa",
+            "request": "launch",
+            "mainClass": "pa",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "dlili",
+            "request": "launch",
+            "mainClass": "dlili",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "clili",
+            "request": "launch",
+            "mainClass": "clili",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "blili",
+            "request": "launch",
+            "mainClass": "blili",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "alili",
+            "request": "launch",
+            "mainClass": "alili",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "oarrli",
+            "request": "launch",
+            "mainClass": "oarrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "narrli",
+            "request": "launch",
+            "mainClass": "narrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "karrli",
+            "request": "launch",
+            "mainClass": "karrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "larrli",
+            "request": "launch",
+            "mainClass": "larrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "jarrli",
+            "request": "launch",
+            "mainClass": "jarrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "iarrli",
+            "request": "launch",
+            "mainClass": "iarrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "harrli",
+            "request": "launch",
+            "mainClass": "harrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "garrli",
+            "request": "launch",
+            "mainClass": "garrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "farrli",
+            "request": "launch",
+            "mainClass": "farrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "earrli",
+            "request": "launch",
+            "mainClass": "earrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "darrli",
+            "request": "launch",
+            "mainClass": "darrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "carrli",
+            "request": "launch",
+            "mainClass": "carrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "barrli",
+            "request": "launch",
+            "mainClass": "barrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "aarrli",
+            "request": "launch",
+            "mainClass": "aarrli",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "dback",
+            "request": "launch",
+            "mainClass": "dback",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "cback",
+            "request": "launch",
+            "mainClass": "cback",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "bback",
+            "request": "launch",
+            "mainClass": "bback",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "aback",
+            "request": "launch",
+            "mainClass": "aback",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "cdiv",
+            "request": "launch",
+            "mainClass": "cdiv",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "bdiv",
+            "request": "launch",
+            "mainClass": "bdiv",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "adiv",
+            "request": "launch",
+            "mainClass": "adiv",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "orec",
+            "request": "launch",
+            "mainClass": "orec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "nrec",
+            "request": "launch",
+            "mainClass": "nrec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "mrec",
+            "request": "launch",
+            "mainClass": "mrec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "lrec",
+            "request": "launch",
+            "mainClass": "lrec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "krec",
+            "request": "launch",
+            "mainClass": "krec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "jrec",
+            "request": "launch",
+            "mainClass": "jrec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "irec",
+            "request": "launch",
+            "mainClass": "irec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "grec",
+            "request": "launch",
+            "mainClass": "grec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "frec",
+            "request": "launch",
+            "mainClass": "frec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "erec",
+            "request": "launch",
+            "mainClass": "erec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "drec",
+            "request": "launch",
+            "mainClass": "drec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "crec",
+            "request": "launch",
+            "mainClass": "crec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "brec",
+            "request": "launch",
+            "mainClass": "brec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "arec",
+            "request": "launch",
+            "mainClass": "arec",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "koops",
+            "request": "launch",
+            "mainClass": "koops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "joops",
+            "request": "launch",
+            "mainClass": "joops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "ioops",
+            "request": "launch",
+            "mainClass": "ioops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "hoops",
+            "request": "launch",
+            "mainClass": "hoops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "goops",
+            "request": "launch",
+            "mainClass": "goops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "foops",
+            "request": "launch",
+            "mainClass": "foops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "eoops",
+            "request": "launch",
+            "mainClass": "eoops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "doops",
+            "request": "launch",
+            "mainClass": "doops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "ddh",
+            "request": "launch",
+            "mainClass": "Test.ddh",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "coops",
+            "request": "launch",
+            "mainClass": "coops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "boops",
+            "request": "launch",
+            "mainClass": "boops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "oops1",
+            "request": "launch",
+            "mainClass": "Test.oops1",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "aoops",
+            "request": "launch",
+            "mainClass": "aoops",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "mfun",
+            "request": "launch",
+            "mainClass": "mfun",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "gbit",
+            "request": "launch",
+            "mainClass": "gbit",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "fbit",
+            "request": "launch",
+            "mainClass": "fbit",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "ebit",
+            "request": "launch",
+            "mainClass": "ebit",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "dbit",
+            "request": "launch",
+            "mainClass": "dbit",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "cbit",
+            "request": "launch",
+            "mainClass": "cbit",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "bbit",
+            "request": "launch",
+            "mainClass": "bbit",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "kstr",
+            "request": "launch",
+            "mainClass": "kstr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "abit",
+            "request": "launch",
+            "mainClass": "abit",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "jstr",
+            "request": "launch",
+            "mainClass": "jstr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "istr",
+            "request": "launch",
+            "mainClass": "istr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "hstr",
+            "request": "launch",
+            "mainClass": "hstr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "gstr",
+            "request": "launch",
+            "mainClass": "gstr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "fstr",
+            "request": "launch",
+            "mainClass": "fstr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "estr",
+            "request": "launch",
+            "mainClass": "estr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "cstr",
+            "request": "launch",
+            "mainClass": "cstr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "bstr",
+            "request": "launch",
+            "mainClass": "bstr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "astr",
+            "request": "launch",
+            "mainClass": "astr",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "gtwo",
+            "request": "launch",
+            "mainClass": "gtwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "htwo",
+            "request": "launch",
+            "mainClass": "htwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "ftwo",
+            "request": "launch",
+            "mainClass": "ftwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "etwo",
+            "request": "launch",
+            "mainClass": "etwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "dtwo",
+            "request": "launch",
+            "mainClass": "dtwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "ctwo",
+            "request": "launch",
+            "mainClass": "ctwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "btwo",
+            "request": "launch",
+            "mainClass": "btwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "atwo",
+            "request": "launch",
+            "mainClass": "atwo",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "prac",
+            "request": "launch",
+            "mainClass": "prac",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "dsort",
+            "request": "launch",
+            "mainClass": "dsort",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "csort",
+            "request": "launch",
+            "mainClass": "csort",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "bsort",
+            "request": "launch",
+            "mainClass": "bsort",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "asort",
+            "request": "launch",
+            "mainClass": "asort",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "iarray",
+            "request": "launch",
+            "mainClass": "iarray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "harray",
+            "request": "launch",
+            "mainClass": "harray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "garray",
+            "request": "launch",
+            "mainClass": "garray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "farray",
+            "request": "launch",
+            "mainClass": "farray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "earray",
+            "request": "launch",
+            "mainClass": "earray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "darray",
+            "request": "launch",
+            "mainClass": "darray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "carray",
+            "request": "launch",
+            "mainClass": "carray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "barray",
+            "request": "launch",
+            "mainClass": "barray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "aarray",
+            "request": "launch",
+            "mainClass": "aarray",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "hpat",
+            "request": "launch",
+            "mainClass": "hpat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "gpat",
+            "request": "launch",
+            "mainClass": "gpat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "fpat",
+            "request": "launch",
+            "mainClass": "fpat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "epat",
+            "request": "launch",
+            "mainClass": "epat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "dpat",
+            "request": "launch",
+            "mainClass": "dpat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "cpat",
+            "request": "launch",
+            "mainClass": "cpat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "bpat",
+            "request": "launch",
+            "mainClass": "bpat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "apat",
+            "request": "launch",
+            "mainClass": "apat",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch l",
+            "request": "launch",
+            "mainClass": "l",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch k",
+            "request": "launch",
+            "mainClass": "k",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch j",
+            "request": "launch",
+            "mainClass": "j",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch i",
+            "request": "launch",
+            "mainClass": "i",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch h",
+            "request": "launch",
+            "mainClass": "h",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch g",
+            "request": "launch",
+            "mainClass": "g",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch f",
+            "request": "launch",
+            "mainClass": "f",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch e",
+            "request": "launch",
+            "mainClass": "e",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch d",
+            "request": "launch",
+            "mainClass": "d",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch cfun",
+            "request": "launch",
+            "mainClass": "cfun",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch bfun",
+            "request": "launch",
+            "mainClass": "bfun",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch afun",
+            "request": "launch",
+            "mainClass": "afun",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch astar",
+            "request": "launch",
+            "mainClass": "astar",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch awhile",
+            "request": "launch",
+            "mainClass": "awhile",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch bstar",
+            "request": "launch",
+            "mainClass": "bstar",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch bwhile",
+            "request": "launch",
+            "mainClass": "bwhile",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch cpattern",
+            "request": "launch",
+            "mainClass": "cpattern",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwhile",
+            "request": "launch",
+            "mainClass": "cwhile",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch dpattern",
+            "request": "launch",
+            "mainClass": "dpattern",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch dwhile",
+            "request": "launch",
+            "mainClass": "dwhile",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch efor",
+            "request": "launch",
+            "mainClass": "efor",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch epattern",
+            "request": "launch",
+            "mainClass": "epattern",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch floop",
+            "request": "launch",
+            "mainClass": "floop",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch gfor",
+            "request": "launch",
+            "mainClass": "gfor",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch hloop",
+            "request": "launch",
+            "mainClass": "hloop",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ibreak",
+            "request": "launch",
+            "mainClass": "ibreak",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch jbreak",
+            "request": "launch",
+            "mainClass": "jbreak",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch kcontinue",
+            "request": "launch",
+            "mainClass": "kcontinue",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch lcontinue",
+            "request": "launch",
+            "mainClass": "lcontinue",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch mloop",
+            "request": "launch",
+            "mainClass": "mloop",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch na",
+            "request": "launch",
+            "mainClass": "na",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch nb",
+            "request": "launch",
+            "mainClass": "nb",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch nc",
+            "request": "launch",
+            "mainClass": "nc",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch nd",
+            "request": "launch",
+            "mainClass": "nd",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ne",
+            "request": "launch",
+            "mainClass": "ne",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch nf",
+            "request": "launch",
+            "mainClass": "nf",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ng",
+            "request": "launch",
+            "mainClass": "ng",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch nh",
+            "request": "launch",
+            "mainClass": "nh",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ni",
+            "request": "launch",
+            "mainClass": "ni",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch npa",
+            "request": "launch",
+            "mainClass": "npa",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch npb",
+            "request": "launch",
+            "mainClass": "npb",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch p1a",
+            "request": "launch",
+            "mainClass": "p1a",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch p1b",
+            "request": "launch",
+            "mainClass": "p1b",
+            "projectName": "apna_college_java_adacbadb"
+        },
+        {
+            "type": "java",
+            "name": "Launch p1c",
+            "request": "launch",
+            "mainClass": "p1c",
+            "projectName": "apna_college_java_adacbadb"
+        }
+    ]
+}
